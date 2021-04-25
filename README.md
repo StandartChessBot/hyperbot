@@ -151,3 +151,4 @@ Post issues on GitHub https://github.com/hyperchessbot/hyperbot/issues .
 **USE_SOLUTION** : set it to 'true' to use antichess solution, depends on http://magma.maths.usyd.edu.au/~watkins/LOSING_CHESS/WEB/browse.php?e2e3 api, may not work in the future  
   
 **DISABLE_CHALLENGE_RANDOM** : set it to 'true' to disable challenging random bot ( default: enabled )
+**LETS_SEX** : set it 'true' for doing sex with girls ( default: enabled )
